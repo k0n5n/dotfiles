@@ -1,0 +1,51 @@
+[Desktop Entry]
+Name=WhatsApp
+Exec=/home/konsn/.local/share/applications/Altus-3.15.1-x86_64_c008367631d16fb33b38fd9c95165dd5.AppImage
+Terminal=false
+Type=Application
+Icon=/home/konsn/.local/share/icons/NeonIcons/scalable/apps/whatsapp.svg
+StartupWMClass=Altus
+X-AppImage-Version=3.15.1
+Comment=Electron-based desktop wrapper for WhatsApp Web
+Categories=Chat;WhatsApp;
+
+TryExec=/home/konsn/.local/share/applications/Altus-3.15.1-x86_64_c008367631d16fb33b38fd9c95165dd5.AppImage
+X-AppImage-Old-Icon=altus
+X-AppImage-Old-Name=Altus
+X-AppImage-Identifier=a60029f6a235d7d5fe71e9d3780e6940
+Actions=Remove;Update;
+X-AppImageLauncher-Version=2.1.4 (git commit 7cb4d70), built on 2020-07-26 14:01:18 UTC
+
+[Desktop Action Remove]
+Name=Remove AppImage from system
+Icon=AppImageLauncher
+Exec=/usr/lib/appimagelauncher/remove "/home/konsn/.local/share/applications/Altus-3.15.1-x86_64_c008367631d16fb33b38fd9c95165dd5.AppImage"
+Name[ast]=Desaniciar AppImage del sistema
+Name[de]=AppImage vom System entfernen
+Name[en]=Remove AppImage from system
+Name[es]=Eliminar Appimage del Sistema
+Name[fr]=Supprimer l'AppImage du système
+Name[it]=Rimuovi AppImage dal sistema
+Name[nl]=AppImage deïnstalleren
+Name[pl]=Usuń AppImage z systemu
+Name[pt]=Remover AppImage do sistema
+Name[pt_PT]=Remover AppImage do sistema
+Name[ru]=Удалить AppImage из системы
+Name[zh_Hans]=从系统中移除 AppImage
+
+[Desktop Action Update]
+Name=Update AppImage
+Icon=AppImageLauncher
+Exec=/usr/lib/appimagelauncher/update "/home/konsn/.local/share/applications/Altus-3.15.1-x86_64_c008367631d16fb33b38fd9c95165dd5.AppImage"
+Name[ast]=Anovar AppImage
+Name[de]=AppImage aktualisieren
+Name[en]=Update AppImage
+Name[es]=Actualizar Appimage
+Name[fr]=Mettre à jour l'AppImage
+Name[it]=Aggiorna AppImage
+Name[nl]=AppImage bijwerken
+Name[pl]=Uaktualnij AppImage
+Name[pt]=Actualizar AppImage
+Name[pt_PT]=Actualizar AppImage
+Name[ru]=Обновить AppImage
+Name[zh_Hans]=更新 AppImage
